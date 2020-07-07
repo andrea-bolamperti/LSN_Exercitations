@@ -1,0 +1,23 @@
+0.5
+2.0
+0.05
+50000
+50
+1.0
+0.02
+1
+100
+100000
+
+  ReadInput >> initial temperature;
+  ReadInput >> final temperature;
+  ReadInput >> temperture step;
+	If you want a fixed temperature put
+	in_temp = fin_temp
+  ReadInput >> equilibration steps
+  ReadInput >> nspin;
+  ReadInput >> J;
+  ReadInput >> h;
+  ReadInput >> metro;	//farà Metropolis se =1 o Gibbs
+  ReadInput >> nblk;	//numero blocchi
+  ReadInput >> nstep;	//step per blocchi
