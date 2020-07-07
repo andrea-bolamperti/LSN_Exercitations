@@ -1,0 +1,27 @@
+1.4
+108
+1.1
+2.2
+0.0005
+10000
+1000
+old
+10000
+solid
+
+  ReadInput >> temp;
+  ReadInput >> npart;
+  ReadInput >> rho;
+  ReadInput >> rcut;
+  ReadInput >> delta;
+  ReadInput >> nstep;
+  ReadInput >> iprint;
+  ReadInput >> mode;
+  ReadInput >> old/actual
+	actual: read only the actual configuration contained in
+			config.0. Make the old configuration using velocity
+	old: read the old configuration too which is contained
+			in old.0.
+  ReadInput >> n_temp
+	i.e. the steps of thermalization
+  ReadInput >> phase (solid, liquid, gas)

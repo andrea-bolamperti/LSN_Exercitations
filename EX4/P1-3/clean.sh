@@ -1,0 +1,10 @@
+rm -rf *epot*
+rm -rf *ekin*
+rm -rf *etot*
+rm -rf *temp*
+rm -rf Risultati/*epot*
+rm -rf Risultati/*ekin*
+rm -rf Risultati/*etot*
+rm -rf Risultati/*temp*
+rm -rf Risultati/termal.dat
+rm -rf frames/*.xyz
