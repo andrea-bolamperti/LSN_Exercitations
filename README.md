@@ -1,6 +1,6 @@
 # LSN_Exercitations
 
-Personal repository with the exercitation of course *Laboratorio di Simulazione Numerica*
+Personal repository with the exercitations of course *Laboratorio di Simulazione Numerica*
 
 Academic year 2020/2021, MSc degree
 
